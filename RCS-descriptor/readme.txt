@@ -1,4 +1,4 @@
-/******************************Ref. Code for computing a set of RCS (float and binary) features for a point cloud*********************************/
+/**********************Ref. Code for computing a set of RCS (float and binary) features for a point cloud***************************/
 Please install the Point Cloud Library (PCL, http://pointclouds.org/downloads/) first, we use the PCL 1.6.0 (or higher versions) in RCS implementation
 
 1. We provide interfaces to compute RCS features, including both float and real-valued ones.
